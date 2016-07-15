@@ -1,8 +1,13 @@
 # hello-world
 My first repository
 
-This is my first branch. This is a note for the first branch.
+## Using GIT from a local machine
 
-## Using GIT
+I have done the following:
 
-This is my first comment using GIT from a local machine.
+  1. Created an SSH key and added it to GitHub
+  2. Cloned this project to my local machine
+  3. Pushed my first commit successfully!
+
+Now, I am going to add a new file 'helloWorld.py' and I am going to add this new file to the project using GIT.
+
